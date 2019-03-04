@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
+window.Vue = Vue;
 
 import Welcome from './components/Welcome.vue'
 
